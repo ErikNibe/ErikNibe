@@ -1,7 +1,7 @@
 # Érik Eiji Nibe Moriyama
 
 ## Hi 👋,
-I'm Érik, graduated in food engineering at Universidade de São Paulo (USP) but in career transition to the programming area. I'm currently a full stack developer in training at Kenzie Academy Brazil.
+I'm Érik, graduated in Food Engineering at Universidade de São Paulo (USP) but in career transition to the programming area. I'm currently a full stack developer in training at Kenzie Academy Brazil.
 
 ##
 
