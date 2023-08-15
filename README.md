@@ -1,7 +1,7 @@
 # Érik Eiji Nibe Moriyama
 
 ## Hi 👋,
-I'm Érik, graduated in Food Engineering at Universidade de São Paulo (USP) but in career transition to the programming area. I'm currently a full stack developer in training at Kenzie Academy Brazil.
+I'm Érik, graduated in Food Engineering at Universidade de São Paulo (USP) but in career transition to the programming area. I'm currently a Full Stack developer by Kenzie Academy Brazil.
 
 ##
 
@@ -12,7 +12,7 @@ I'm Érik, graduated in Food Engineering at Universidade de São Paulo (USP) but
   <img align="center" alt="Erik-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Erik-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Erik-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Erik-Python" height="30" width="max-content" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img align="center" alt="Erik-Python" height="30" width="max-content" src="[https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white](https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg))">
 </div>
 
 ##
